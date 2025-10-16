@@ -159,3 +159,28 @@ Unit 3 12/02/2023
 All three units underwent their synchronization tests in February 2023, which is the official commissioning
 activity before commercial operation begins. The approved power import transactions from Nepal to Haryana Discoms, through NTPC Vidyut Vyapar Nigam
 Limited (NVVN), for specific hydropower projects.
+________________
+ISSUANCE DATE: 16/10/2025
+
+QTY: 868461
+
+MP-01: 1/10/2022-31/12/2024
+____________
+Serial Number: 0001-000001-014596-UCR-CoU-NP-567-01102022-31122022
+
+Vintage Year: 2022
+
+Quantity: 14596
+____________
+Serial Number: 0001-014597-442865-UCR-CoU-NP-567-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 428269
+___________
+Serial Number: 0001-442866-868461-UCR-CoU-NP-567-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 425596
+__________
